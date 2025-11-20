@@ -176,7 +176,7 @@ aws logs put-log-events \
 ### **Repository Structure**
 
 ```
-devops-intern-assignment/
+powerplay/
 │
 ├─ README.md
 ├─ system_report.sh
@@ -184,7 +184,7 @@ devops-intern-assignment/
 ├─ system-report.timer
 ├─ cron_root.txt
 ├─ log-events.json
-└─ screenshots/
+└─ screenshot/
 ```
 
 ### **Export Cron Jobs**
